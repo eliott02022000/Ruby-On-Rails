@@ -1,0 +1,45 @@
+4a3c41ae890c29aef53395cdd33534ae0531b4eb		branch 'circleci' of git://github.com/stympy/faker
+fa2aeb37bebf0ab74afe480d8b675da8ce5fce70		branch 'jruby' of git://github.com/stympy/faker
+7673ce34fa4aff368b2856be3d7eb16e1589fbe4		branch 'master' of git://github.com/stympy/faker
+076d53d743061f5d368f97799eccf00b94ba562b		branch 'v2' of git://github.com/stympy/faker
+3dfde815d81e9a5f67a89da0d3b361f0a327ded3	not-for-merge	tag 'v0.9.0' of git://github.com/stympy/faker
+7075854acb5a32bb8e739d71ddbeb4d7e35f7c50	not-for-merge	tag 'v0.9.1' of git://github.com/stympy/faker
+265c28373b46814ee7291006c7fc86bab58800cf	not-for-merge	tag 'v0.9.2' of git://github.com/stympy/faker
+5dce5e46f408e52a602453e622d40bb4c91cabb1	not-for-merge	tag 'v0.9.3' of git://github.com/stympy/faker
+068e0e53173105aa281370808cd4a419e195f6a4	not-for-merge	tag 'v0.9.4' of git://github.com/stympy/faker
+9d7aacf8c654caf4b8da2d2881a13186fd2b588b	not-for-merge	tag 'v0.9.5' of git://github.com/stympy/faker
+23b15aa9f193d628fd23112b5cb741e63ad1fe75	not-for-merge	tag 'v1.0.0' of git://github.com/stympy/faker
+2493a0e305c9af9a4acebd92cd8e92ad581c55aa	not-for-merge	tag 'v1.0.1' of git://github.com/stympy/faker
+a71a4715cdff52c60f3a8876ed8ad904d6273ffc	not-for-merge	tag 'v1.1.0' of git://github.com/stympy/faker
+b2b1e526f4d48e004926827fb4f33a6af4f84c69	not-for-merge	tag 'v1.1.1' of git://github.com/stympy/faker
+724a27b67787543e1fe26b366411bdb29bd9ad7c	not-for-merge	tag 'v1.1.2' of git://github.com/stympy/faker
+f3aa9ee0d29970ba687f44383471b92250a90483	not-for-merge	tag 'v1.2.0' of git://github.com/stympy/faker
+eaa272f3f0230f47e70862765a8443e684231965	not-for-merge	tag 'v1.3.0' of git://github.com/stympy/faker
+061b3db6452bb80660476ac83905103e8bbe87b3	not-for-merge	tag 'v1.4.0' of git://github.com/stympy/faker
+dbb6eb0af185b1a876024f0b46856372fa0e4f94	not-for-merge	tag 'v1.4.1' of git://github.com/stympy/faker
+9dcf365721529c84c919c610952ff2ea0edb1a5c	not-for-merge	tag 'v1.4.2' of git://github.com/stympy/faker
+fae2b00f526a34f3f96aed67c5f276508427fb08	not-for-merge	tag 'v1.4.3' of git://github.com/stympy/faker
+b3ba4caf724b8af7f8436eeef8a36279230bab3c	not-for-merge	tag 'v1.5.0' of git://github.com/stympy/faker
+1d4e36473b4dde26a1a08458997abf34084f7eb7	not-for-merge	tag 'v1.6.0' of git://github.com/stympy/faker
+f4d5a9f4c9c98b6be1441801d285c4486f199f52	not-for-merge	tag 'v1.6.1' of git://github.com/stympy/faker
+774b6f83204d006e39e9e5566ebd93906cd5348e	not-for-merge	tag 'v1.6.2' of git://github.com/stympy/faker
+2d98fb24b4086b71e67a437f2ae06e060a11b668	not-for-merge	tag 'v1.6.3' of git://github.com/stympy/faker
+c96f56180c62790cfcdb14f27c504dfb18822408	not-for-merge	tag 'v1.6.4' of git://github.com/stympy/faker
+72cfa09da145b14216b1e545caf84ac00d1bb2a2	not-for-merge	tag 'v1.6.5' of git://github.com/stympy/faker
+c320d058254e723ac52d0a59492b1b557eab0aba	not-for-merge	tag 'v1.6.6' of git://github.com/stympy/faker
+73da052a6dc22e9147792c1ab370ced78c898510	not-for-merge	tag 'v1.7.0' of git://github.com/stympy/faker
+b71a97146c08b822bd545982e1882089fe281e7d	not-for-merge	tag 'v1.7.1' of git://github.com/stympy/faker
+85b87cc080362765cdd8044aeed960ef9730a549	not-for-merge	tag 'v1.7.2' of git://github.com/stympy/faker
+51d2c6157ee965b5d50df4b27ea2cedb21bd9444	not-for-merge	tag 'v1.7.3' of git://github.com/stympy/faker
+47ecd7a583f6b7a9831d542303c16f45bb035831	not-for-merge	tag 'v1.8.0' of git://github.com/stympy/faker
+31b3e3aaabe223b59ab94eb4b5722470168f64f4	not-for-merge	tag 'v1.8.1' of git://github.com/stympy/faker
+5921dd74ed516a6479ce6d87acf9d0232e1f793b	not-for-merge	tag 'v1.8.2' of git://github.com/stympy/faker
+50e62c6ec8869529643e24b423c9cb4aa606c6d8	not-for-merge	tag 'v1.8.3' of git://github.com/stympy/faker
+2aeb55dab8705780b9e146e37c7c5e18f01c8091	not-for-merge	tag 'v1.8.4' of git://github.com/stympy/faker
+21d7ebb66e4deb7875f34cc8d6ea3c42585d3d08	not-for-merge	tag 'v1.8.5' of git://github.com/stympy/faker
+eeb1ec594333ce36bc910c3ce94e452d125cb080	not-for-merge	tag 'v1.8.6' of git://github.com/stympy/faker
+9f186cbf0e44375e2b8e99cb9ff4d28c78abeab7	not-for-merge	tag 'v1.8.7' of git://github.com/stympy/faker
+184c6d345855bd63b1e10b1a34ca525577891a70	not-for-merge	tag 'v1.9.0' of git://github.com/stympy/faker
+e586db719d73d6ae49f941949880e3176c1a346d	not-for-merge	tag 'v1.9.1' of git://github.com/stympy/faker
+b6261707f0be198559cf98a93462de7a19d8f7b9	not-for-merge	tag 'v1.9.2' of git://github.com/stympy/faker
+c86a591ef8b1206e7ebfa121a86e197f38ee4b74	not-for-merge	tag 'v1.9.3' of git://github.com/stympy/faker

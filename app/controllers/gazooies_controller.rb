@@ -1,0 +1,2 @@
+class GazooiesController < ApplicationController
+end

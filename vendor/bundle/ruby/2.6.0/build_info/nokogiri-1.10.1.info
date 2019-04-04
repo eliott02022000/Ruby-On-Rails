@@ -1,0 +1,1 @@
+--use-system-libraries=true --with-xml2-include=/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/libxml2

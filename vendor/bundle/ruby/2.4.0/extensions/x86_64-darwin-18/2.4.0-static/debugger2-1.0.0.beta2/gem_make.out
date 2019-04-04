@@ -1,0 +1,50 @@
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+/Users/eliott.jarmoune/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20190308-43535-1rt0z1i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR=" clean
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR="
+compiling breakpoint.c
+breakpoint.c:26:9: warning: logical not is only applied to the left hand side of this comparison [-Wlogical-not-parentheses]
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^      ~~
+breakpoint.c:26:9: note: add parentheses after the '!' to evaluate the comparison first
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+         (                                 )
+breakpoint.c:26:9: note: add parentheses around left hand side expression to silence this warning
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+        (     )
+breakpoint.c:101:9: warning: logical not is only applied to the left hand side of this comparison [-Wlogical-not-parentheses]
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^      ~~
+breakpoint.c:101:9: note: add parentheses after the '!' to evaluate the comparison first
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+         (                                 )
+breakpoint.c:101:9: note: add parentheses around left hand side expression to silence this warning
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+        (     )
+breakpoint.c:119:9: warning: logical not is only applied to the left hand side of this comparison [-Wlogical-not-parentheses]
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^      ~~
+breakpoint.c:119:9: note: add parentheses after the '!' to evaluate the comparison first
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+         (                                 )
+breakpoint.c:119:9: note: add parentheses around left hand side expression to silence this warning
+    if (!Qtrue == debug_breakpoint->enabled) return 0;
+        ^
+        (     )
+3 warnings generated.
+compiling ruby_debug.c
+linking shared-object ruby_debug.bundle
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_debug.bundle ./.gem.20190308-43535-1hjblfu

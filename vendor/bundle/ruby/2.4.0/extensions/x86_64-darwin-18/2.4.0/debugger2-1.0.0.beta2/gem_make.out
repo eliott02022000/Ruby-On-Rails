@@ -1,0 +1,35 @@
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+/Users/eliott.jarmoune/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/eliott.jarmoune/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190308-29844-14mwn9a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR=" clean
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR="
+compiling breakpoint.c
+breakpoint.c:71:13: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    s_len = RSTRING_LEN(source);
+          ~ ^~~~~~~~~~~~~~~~~~~
+/Users/eliott.jarmoune/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/ruby/ruby.h:980:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/eliott.jarmoune/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/ruby/ruby.h:976:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+breakpoint.c:71:13: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    s_len = RSTRING_LEN(source);
+          ~ ^~~~~~~~~~~~~~~~~~~
+/Users/eliott.jarmoune/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/ruby/ruby.h:981:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+breakpoint.c:72:13: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+    f_len = strlen(file);
+          ~ ^~~~~~~~~~~~
+3 warnings generated.
+compiling ruby_debug.c
+linking shared-object ruby_debug.bundle
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.4.0/gems/debugger2-1.0.0.beta2/ext/ruby_debug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_debug.bundle ./.gem.20190308-29844-h6nj9q

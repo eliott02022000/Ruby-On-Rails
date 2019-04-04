@@ -1,0 +1,13 @@
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+/Users/eliott.jarmoune/.rbenv/versions/2.6.1/bin/ruby -I /Users/eliott.jarmoune/.rbenv/versions/2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190307-6927-1xwj7yw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install

@@ -1,0 +1,22 @@
+/Library/Developer/CommandLineTools/usr/bin/make  install-recursive
+Making install in include
+Making install in libxml
+make[4]: Nothing to be done for `install-exec-am'.
+ ../.././install-sh -c -d '/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/include/libxml2/libxml'
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in .
+ ./install-sh -c -d '/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/lib'
+libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/lib/libxml2.la
+usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 file2
+       install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 ... fileN directory
+       install -d [-v] [-g group] [-m mode] [-o owner] directory ...
+make[3]: *** [install-libLTLIBRARIES] Error 64
+make[2]: *** [install-am] Error 2
+make[1]: *** [install-recursive] Error 1
+make: *** [install] Error 2

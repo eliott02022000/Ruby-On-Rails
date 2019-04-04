@@ -1,0 +1,13 @@
+prefix=/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9
+exec_prefix=${prefix}
+libdir=/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.9
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private:  -lpthread -lz   -liconv -lm  
+Cflags: -I${includedir}/libxml2 

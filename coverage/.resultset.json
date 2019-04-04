@@ -1,0 +1,272 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/models/model.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/comments_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/gazooies_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/hash_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/hash_tags_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/news_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/pages_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/profiles_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/helpers/users_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/models/page.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/news_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/hash_tags_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/comments_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/pages_controller.rb": [
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/profiles_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/users_controller.rb": [
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/controllers/gazooies_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1553520545
+  }
+}

@@ -1,0 +1,19 @@
+current directory: /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/ext
+/Users/eliott.jarmoune/.rbenv/versions/2.6.1/bin/ruby -rrubygems /Users/eliott.jarmoune/Desktop/dev\ 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/Users/eliott.jarmoune/Desktop/dev\ 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0-static/sassc-2.0.1 RUBYLIBDIR\=/Users/eliott.jarmoune/Desktop/dev\ 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0-static/sassc-2.0.1
+cd libsass
+make lib/libsass.so
+mkdir lib
+cc -Wall -O2 -I /Users/eliott.jarmoune/Desktop/dev /Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/ext/libsass/2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/ext/libsass/include -stdlib=libc++ -fPIC -fPIC -c -o src/cencode.o src/cencode.c
+clang: error: no such file or directory: '/Users/eliott.jarmoune/Desktop/dev'
+clang: error: no such file or directory: '2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/ext/libsass/2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/ext/libsass/include'
+make: *** [src/cencode.o] Error 1
+rake aborted!
+Command failed with status (2): [make lib/libsass.so...]
+/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/lib/tasks/libsass.rb:31:in `block (2 levels) in <top (required)>'
+/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/lib/tasks/libsass.rb:13:in `block (3 levels) in <top (required)>'
+/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/sassc-2.0.1/lib/tasks/libsass.rb:12:in `block (2 levels) in <top (required)>'
+/Users/eliott.jarmoune/Desktop/dev 2018_2019/ruby/rails/gazooyr/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake:27:in `<main>'
+Tasks: TOP => lib/libsass.so
+(See full trace by running task with --trace)
+
+rake failed, exit code 1

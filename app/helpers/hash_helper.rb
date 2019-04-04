@@ -1,0 +1,2 @@
+module HashHelper
+end

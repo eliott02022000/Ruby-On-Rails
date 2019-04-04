@@ -1,0 +1,12 @@
+tmp
+vendor/bundle
+pkg/*
+
+.rvmrc
+.gdbinit
+.gdb_history
+.bundle
+
+lib/ruby_debug.bundle
+
+Gemfile.lock
